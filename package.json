@@ -1,0 +1,25 @@
+{
+  "name": "react-redux-webpack-cognito",
+  "version": "1.0.0",
+  "description": "boilerplate for a react app with webpack, redux, and user managment with Amazon's cognito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgrisafe/react-redux-webpack-cognito.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "webpack",
+    "cognito"
+  ],
+  "author": "joey grisafe <jgrisafe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgrisafe/react-redux-webpack-cognito/issues"
+  },
+  "homepage": "https://github.com/jgrisafe/react-redux-webpack-cognito#readme"
+}
